@@ -17,7 +17,7 @@ Description
     Type Full Country Name in CAPITAL LETTERS [Default is UNITED STATES]: UNITED STATES
 
 
-**SAMPLE OUTPUT**::
+**SAMPLE OUTPUT**
 .. image:: /Google Trend Sample.png	
     
 Data source: `Google Trends`_

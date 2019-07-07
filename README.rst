@@ -23,7 +23,7 @@ Description
 Data source: `Google Trends`_
 
 
-.. |TrendExample| image:: Google Trend Sample.png
+.. |TrendExample| image:: https://github.com/utsavraj/KeyWord-Recommender-/blob/master/Google%20Trend%20Sample.png
 
 .. _Google Trends: https://trends.google.com/trends/explore?geo=US&q=buy%20car,buy%20car%20online,buy%20cars%20near%20me,buy%20car%20insurance%20online,buy%20car%20parts
 

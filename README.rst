@@ -18,7 +18,7 @@ Description
 
 
 **SAMPLE OUTPUT**
-.. |sharealike| image:: Google Trend Sample.png	
+.. image:: Google Trend Sample.png	
     
 Data source: `Google Trends`_
 

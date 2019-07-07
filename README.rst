@@ -18,13 +18,7 @@ Description
 
 
 **SAMPLE OUTPUT**::
-
-    **RECOMMENDATION**
-    Potato Chips x 1
-    Warai Azami x 2
-    Ichiraku Ramen x 2
-
-    Total Spending: $ 99.00
+.. image:: /path/to/image.jpg
     
 Data source: `Google Trends`_
 

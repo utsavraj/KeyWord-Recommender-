@@ -26,7 +26,7 @@ Description
 
     Total Spending: $ 99.00
     
-Data source: `Google Trends`_ 
+Data source: `Google Trends`
 
-.. _GoogleTrends: https://trends.google.com/trends/explore?geo=US&q=buy%20car,buy%20car%20online,buy%20cars%20near%20me,buy%20car%20insurance%20online,buy%20car%20parts
+.. Google Trends: https://trends.google.com/trends/explore?geo=US&q=buy%20car,buy%20car%20online,buy%20cars%20near%20me,buy%20car%20insurance%20online,buy%20car%20parts
 

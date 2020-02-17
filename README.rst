@@ -21,7 +21,7 @@ Description
 |TrendExample|
 
 
-.. |TrendExample| image:: https://github.com/utsavraj/KeyWord-Recommender-/blob/master/Sample-Screenshot.png
+.. |TrendExample| image:: https://github.com/utsavraj/KeyWord-Recommender-/blob/master/Google%20Trend%20Sample.png
 
 
 
